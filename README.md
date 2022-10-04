@@ -39,5 +39,5 @@ The smallest datasets are provided to test more computationally demanding machin
 ## Output variable (desired target):
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
-# Project Goal
+## Project Goal
 The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
